@@ -1,0 +1,6 @@
+--- 1HSG Structure Validation Report ---
+Inspected File    : 1HSG.cif
+Protein Atoms     : 1514
+HETATM Records    : 172
+Water Molecules   : 127
+Chains            : A, B
